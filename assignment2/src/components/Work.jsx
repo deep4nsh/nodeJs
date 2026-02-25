@@ -62,7 +62,7 @@ const Work = () => {
 
     return (
         <div className="page-container work-page">
-            <h1>IOS with React.JS</h1>
+            <h1>OS with React.JS</h1>
             <div className="button-group">
                 <button onClick={() => fetchInfo('userInfo')}>User Info</button>
                 <button onClick={() => fetchInfo('architecture')}>Architecture</button>
